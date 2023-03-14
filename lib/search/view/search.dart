@@ -18,7 +18,9 @@ class _SearchScreenState extends State<SearchScreen> {
         child: ListView(
           children: [
             CupertinoSearchTextField(),
-            SizedBox(height: 10,),
+            SizedBox(
+              height: 10,
+            ),
             CupertinoListTile(
               backgroundColor: Colors.white,
               leading: ClipRRect(
@@ -45,12 +47,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -79,12 +79,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -113,12 +111,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -147,12 +143,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -181,12 +175,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -215,12 +207,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -249,12 +239,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -283,12 +271,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -317,12 +303,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(
@@ -351,12 +335,10 @@ class _SearchScreenState extends State<SearchScreen> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(
-                  left: 100
-              ),
-              child: Divider(color: Colors.black38,
+              padding: const EdgeInsets.only(left: 100),
+              child: Divider(
+                color: Colors.black38,
                 thickness: 0.5,
-
               ),
             ),
             CupertinoListTile(

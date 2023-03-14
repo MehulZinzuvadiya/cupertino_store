@@ -30,7 +30,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/store/bg1.jpg",
+                "assets/images/shirt/bg1.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -56,7 +56,6 @@ class _Product1State extends State<Product1> {
             ),
             child: Divider(color: Colors.black38,
               thickness: 0.5,
-
             ),
           ),
           CupertinoListTile(
@@ -64,7 +63,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg2.jpg",
+                "assets/images/shirt/bg2.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -98,7 +97,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg3.jpg",
+                "assets/images/shirt/bg3.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -132,7 +131,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg4.jpg",
+                "assets/images/shirt/bg4.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -166,7 +165,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg5.jpg",
+                "assets/images/shirt/bg5.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -200,7 +199,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg6.jpg",
+                "assets/images/shirt/bg6.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -234,7 +233,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg7.jpg",
+                "assets/images/shirt/bg7.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -268,7 +267,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/bg8.jpg",
+                "assets/images/shirt/bg8.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
@@ -302,7 +301,7 @@ class _Product1State extends State<Product1> {
             leading: ClipRRect(
               borderRadius: BorderRadius.circular(4),
               child: Image.asset(
-                "assets/images/shirt4.jpg",
+                "assets/images/shirt/shirt2.jpg",
                 fit: BoxFit.cover,
                 width: 68,
                 height: 68,
